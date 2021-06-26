@@ -2,7 +2,7 @@
 - 🔭 I’m currently working into CyberSecurity domain.
 - 🌱 I’m currently learning more about Purple Teaming.
 - 👯 I’m Member of OWASP who prefers Free and Open-source stuff.
-- 🤔 I’m looking to meet people specially who are into CyberSecurity field.
+- 🤔 I’m looking to meet peoples all around the world specially who are into CyberSecurity field.
 
 
 <h4 align="left">:satellite: Reach Me Out at :</h4>
