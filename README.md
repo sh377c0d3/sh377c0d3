@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working in CyberSecurity domain.
+- 🔭 I’m working in CyberSecurity domain.
 - 🌱 I’m currently learning more about Purple Teaming.
 - 👯 I’m Member of OWASP who prefers Free and Open-source stuff.
 - 🤔 I’m looking to meet peoples all around the world, specially who are into CyberSecurity field.
