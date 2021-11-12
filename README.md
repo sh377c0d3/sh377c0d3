@@ -2,7 +2,7 @@
 - 🔭 I’m working in CyberSecurity domain.
 - 🌱 I’m currently learning Reverse Engineering & Exploit Development.
 - ✨ I’m Member of OWASP who loves & prefers Free and Open-source stuff.
-- 👯 I’m like to meet peoples all around the world, specially who are into CyberSecurity field.
+- ✔️ I’m like to meet peoples all around the world, specially who are into CyberSecurity field.
 
 
 <h4 align="left">:satellite: Reach me out or just Connect with me @ :</h4>
