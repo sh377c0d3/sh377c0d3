@@ -13,4 +13,4 @@
 <a href="https://www.buymeacoffee.com/sh377c0d3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Pizza" align="right" height="41" width="200"></a>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&count_private=true&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&count_private=true&show_icons=true">
