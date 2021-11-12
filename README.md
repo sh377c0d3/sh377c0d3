@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m working in CyberSecurity domain.
 - 🌱 I’m currently learning Reverse Engineering & Exploit Development.
-- 🤔 I’m Member of OWASP who prefers Free and Open-source stuff.
+- 🥰 I’m Member of OWASP who loves & prefers Free and Open-source stuff.
 - 👯 I’m like to meet peoples all around the world, specially who are into CyberSecurity field.
 
 
