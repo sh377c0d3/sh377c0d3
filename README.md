@@ -11,5 +11,5 @@
 [![Linkedin: Manish Sharma](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh377c0d3)<br/>
 [![Discord-Stoned Bug](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FSDhjmmbzv)
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&theme=blue-green&show_icons=true">
