@@ -12,4 +12,5 @@
 [![Discord-Stoned Bug](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FSDhjmmbzv)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&theme=blue-green&count_private=true&show_icons=true">
+#<img align="right" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&count_private=true&show_icons=true">
