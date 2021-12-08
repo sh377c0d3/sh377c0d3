@@ -11,7 +11,5 @@
 [![Linkedin: Manish Sharma](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh377c0d3)<br/>
 [![Discord-Stoned Bug](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FSDhjmmbzv)
 
-<a href="https://www.buymeacoffee.com/sh377c0d3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-3.svg" alt="Buy Me A Pizza" align="right" height="41" width="170"></a>
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&count_private=true&show_icons=true">
