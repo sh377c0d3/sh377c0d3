@@ -12,7 +12,7 @@
 
 ----
 
-<h2 align="center">:coffee: Buy Me A Coffee </h2>
+<h2 align="center">:coffee: or :pizza: </h2>
 
 <p><a href="https://www.buymeacoffee.com/sh377c0d3"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="sh377c0d3" /></a></p><br>
 
