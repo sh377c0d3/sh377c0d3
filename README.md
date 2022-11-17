@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Manish and you can call me sh377c0d3
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+
+### I'm Manish and you can call me sh377c0d3
+
 - 🔭 I’m working in Cyber Security domain.
 - 🌱 I’m currently learning Reverse Engineering & Exploit Development.
 - ✨ I’m Member of OWASP who loves & prefers Free and Open-source stuff.
