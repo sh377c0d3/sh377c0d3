@@ -11,6 +11,7 @@
 [![Discord-Stoned Bug](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FSDhjmmbzv)<br/>
 
 <h4 align="center">:coffee: Buy Me A Coffee </h4>
+
 ----
 [![Buymeacoffee: sh377c0d3](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/sh377c0d3)<br/>
 [![PayPal: sh377c0d3](https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg)](https://www.paypal.com/paypalme/sh377c0d3)<br/>
