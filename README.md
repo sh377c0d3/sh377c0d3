@@ -1,6 +1,6 @@
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-### I'm Manish and you can call me sh377c0d3
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=I'm+Manish+and+you+can+call+me+sh377c0d3)](https://git.io/typing-svg)
 
 - 🔭 I’m working in Cyber Security domain.
 - 🌱 I’m currently learning Reverse Engineering & Exploit Development.
