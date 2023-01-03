@@ -15,16 +15,6 @@
 
 ----
 
-<h2 align="center">:coffee: or :pizza: </h2>
-
-<p><a href="https://www.buymeacoffee.com/sh377c0d3"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="sh377c0d3" /></a></p><br>
-
-<p><a href="https://www.paypal.com/paypalme/sh377c0d3"> <img align="center" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="200" alt="sh377c0d3" /></a></p></br>
-
-----
-
-----
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sh377c0d3&theme=blue-green&show_icons=true">
 
