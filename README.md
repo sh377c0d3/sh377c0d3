@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Microbe&pause=1000&color=28F748&width=500&lines=I'm+Manish+and+you+can+call+me+sh377c0d3)](https://git.io/typing-svg)
 
-<img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79631443">
+<img align="right" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79631443">
 
 - 🔭 I’m working in Cyber Security domain.
 - 🌱 I’m currently pursuing Masters in CyberSecurity.
