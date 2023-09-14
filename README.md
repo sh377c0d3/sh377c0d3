@@ -7,8 +7,6 @@
 - ✨ I’m Member of OWASP who loves & prefers Free and Open-source stuff.
 - ✔️ I’m like to meet peoples all around the world, specially who are into Cyber Security domain.
 
-[![eCXD_](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79631443) <br/>
-
 <h4 align="left">:satellite: 📫 How to reach me :</h4>
 
 [![Twitter: sh377c0d3_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sh377c0d3) <br/>
@@ -22,3 +20,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh377c0d3&theme=blue-green">
 
+<img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79631443">
