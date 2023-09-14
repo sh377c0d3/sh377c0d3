@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Microbe&pause=1000&color=28F748&width=500&lines=I'm+Manish+and+you+can+call+me+sh377c0d3)](https://git.io/typing-svg)
 
 - 🔭 I’m working in Cyber Security domain.
-- 🌱 I’m currently learning Reverse Engineering & Exploit Development.
+- 🌱 I’m currently pursuing Masters in CyberSecurity.
 - ✨ I’m Member of OWASP who loves & prefers Free and Open-source stuff.
 - ✔️ I’m like to meet peoples all around the world, specially who are into Cyber Security domain.
+
+[![eCXD_](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79631443) <br/>
 
 <h4 align="left">:satellite: 📫 How to reach me :</h4>
 
