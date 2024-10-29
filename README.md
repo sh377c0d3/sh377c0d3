@@ -5,7 +5,7 @@
 <img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79631443">
 
 - 🔭 Working as a Security Engineer.
-- 🌱 I’m currently pursuing Malware Development.
+- 🌱 I’m currently trying to figure things out.
 - ✨ I’m Member of OWASP who loves & prefers Free and Open-source stuff.
 - ✔️ I like to meet peoples all around the world, specially who are into Cyber Security domain.
 
